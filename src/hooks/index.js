@@ -75,6 +75,6 @@ export const useProjects = () => {
   return { projects, setProjects };
 };
 
-//userId / projectId in video / Edit in Firebase first
+//userId / projectId / Edit in Firebase first before changing
 //'jlIFXIwyAL3tzHMtzRbw'
 //'jlIFXIwyAL3tzHMtzRbw'
